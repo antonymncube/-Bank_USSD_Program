@@ -12,15 +12,4 @@ This Java console-based banking application allows users to perform various bank
   - **Send Money:** Clients can easily transfer funds from their account to other clients' accounts using the recipient's account number.
 - **Input Validation:** The application employs robust input validation to ensure that users provide accurate and valid information.
 
-## Classes
-
-1. `Account`: Represents a bank account with attributes like balance, PIN, and account number. Provides methods to retrieve and modify the account balance.
-
-```java
-public class Account {
-    private double balance;
-    private int pin;
-    private int accountNumber;
-
-    // Constructor and getter/setter methods not shown for brevity.
-}
+ 
