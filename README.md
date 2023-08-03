@@ -47,5 +47,5 @@ To exit the program, select option 999 when prompted for a command.
 
 Feel free to explore and test the various functionalities provided by this console-based banking application. Customize and expand the code as per your specific requirements to enhance the banking experience.
 
-Happy banking! 🏦
+Happy banking! 🏦.
 
